@@ -1,2 +1,2 @@
-# CS102
-Bilkent CS102 2023 Fall 
+# CS102- Algorithms and Programming II LABS
+Java programs from the CS102 course, focusing on enhanced object-oriented programming. Labs are designed to exercise the CS102 course topics such as inheritance, polymorphism, abstract classes and interfaces, graphical user interfaces, exceptions, and abstract data structures like lists, stacks, queues, and trees. Concepts like recursion, file handling, searching, sorting, hashing, and time and space considerations in programming are also covered in this course.
